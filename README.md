@@ -5,3 +5,4 @@
 4. loop
 5. Stacks
 6. Queue
+7. Queue
